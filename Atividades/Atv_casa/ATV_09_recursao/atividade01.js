@@ -1,0 +1,3 @@
+function conversaoBase(n, b){
+    
+}
